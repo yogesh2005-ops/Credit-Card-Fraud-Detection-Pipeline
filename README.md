@@ -1,9 +1,5 @@
 # Credit-Card-Fraud-Detection-Pipeline
-An end-to-end Python pipeline using Random Forest to detect credit card fraud. Scaled using stratified anti-leakage splitting and optimized to a 0.3000 threshold to minimize financial loss and customer friction.
-
-# Credit Card Fraud Detection
-
-An analysis of credit card fraud detection that optimises for business costs rather than accuracy. It uses the public Kaggle credit card fraud dataset: 284,807 transactions, of which 492 (0.17%) are fraud.
+An end-to-end Python pipeline using Random Forest to detect credit card fraud. Scaled using stratified anti-leakage splitting and optimized to a 0.3000 threshold to minimize financial loss and customer friction. An analysis of credit card fraud detection that optimizes for business costs rather than accuracy. It uses the public Kaggle credit card fraud dataset: 284,807 transactions, of which 492 (0.17%) are fraud.
 
 ## The Problem: The Accuracy Trap
 
