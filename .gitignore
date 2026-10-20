@@ -1,0 +1,12 @@
+# Ignore the large local data directory completely
+data/
+*.csv
+
+# Ignore standard python caching clutter
+__pycache__/
+*.pyc
+
+# Ignore local environment systems if you use them
+.venv/
+venv/
+.env
